@@ -1,0 +1,25 @@
+{
+  "name": "change-object",
+  "version": "0.0.0",
+  "description": "Clone and change given object paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "object",
+    "path",
+    "change",
+    "immutable"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/change-object.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "change-object-path": "0.0.*",
+    "prova": "^2.1.2"
+  }
+}
