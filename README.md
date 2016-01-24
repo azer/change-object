@@ -31,7 +31,7 @@ updated
 
 It supports changing [deep paths](http://github.com/azer/change-object-path):
 
-```
+```js
 var state = {
   products: { eggs: [{ kind: 'white egg', amount: 250 }] }
 }
