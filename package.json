@@ -19,7 +19,6 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "change-object-path": "0.0.*",
-    "prova": "^2.1.2"
+    "change-object-path": "azer/change-object-path"
   }
 }
