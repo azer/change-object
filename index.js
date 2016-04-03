@@ -1,4 +1,4 @@
-var set = require("change-object-path");
+var set = require("set-object-path");
 
 module.exports = change;
 
