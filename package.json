@@ -19,6 +19,6 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "change-object-path": "azer/change-object-path"
+    "change-object-path": "azer/set-object-path"
   }
 }
